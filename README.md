@@ -35,15 +35,15 @@ This feature allows healthcare providers to access and visualize comprehensive h
 ## 📱 Screenshots
 
 ![App Screenshot](https://drive.google.com/uc?id=1B1xR7z1mIFP8T0QFpc1dFtkWe_0YKAoH)  
-<br>
+<br><br>
 ![App Screenshot](https://drive.google.com/uc?id=1osUdMB_ef4Vpi6KhFPH6TsPj1lIYJI8r)  
-<br>
+<br><br>
 ![App Screenshot](https://drive.google.com/uc?id=13i4iXvggkIlTvKUcP3ppl2oS-wBJ6fy8)  
-<br>
+<br><br>
 ![App Screenshot](https://drive.google.com/uc?id=1gnF6gixlXPrDmiAmb4t4MaQpz1kAGlZo) 
-<br>
+<br><br><br><br>
 ![App Screenshot](https://drive.google.com/uc?id=1F3eI3dWiITv0TNXBiJ3Y9-d25pMB32gY)  
-<br>
+<br><br>
 
 
 ## 🧩 Tech Stack
