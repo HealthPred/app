@@ -56,6 +56,6 @@ This feature allows healthcare providers to access and visualize comprehensive h
 ## ⬇️ Download Now
 
 ```web
-  shorturl.at/ciAHN
+  https://drive.google.com/file/d/1vge42mIUiw_xGQyUkdmk-d9lwVSh2eX0/view?usp=drive_link
 ```
     
